@@ -19,6 +19,6 @@ Made with php and for database I used Sql. <br>--VirusZzHkP_GroupChat-v1.0<br>
 <H4>Donate:</H4>
 <a href="https://www.paypal.com/paypalme/hrisikeshpal">PayPal</a><br>
 <a href="https://www.buymeacoffee.com/hrisikesh">BuyMeACoffee</a>
-<br>
+<br><br>
  Cheers!!<br>
  M@d3 With ♥ -- VirusZzHkP
