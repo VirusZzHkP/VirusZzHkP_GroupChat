@@ -3,7 +3,7 @@
 $serverName = "localhost";
 $dBUsername = "root";
 $dBPassword = "";
-$dBName = "id18350597_loginsystem";
+$dBName = "viruszzwarninggroupchat";
 
 $conn = mysqli_connect($serverName, $dBUsername, $dBPassword, $dBName, 3306);
 

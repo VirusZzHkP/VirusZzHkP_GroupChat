@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `id18350597_loginsystem`
+-- Database: `viruszzwarninggroupchat`
 --
 
 -- --------------------------------------------------------
@@ -46,10 +46,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`idUsers`, `f_name`, `l_name`, `uidUsers`, `emailUsers`, `pwdUsers`, `gender`, `headline`, `bio`, `userImg`) VALUES
-(33, 'Hrisikesh', 'Pal', 'Hrisikesh', 'hrisikeshpal2001@gmail.com', '$2y$10$Lu3Q6okq/aXWlTDQ8GvT/.ZZFDBg4QjaFC1vB25eKEVg/E8xG1UIW', 'm', 'WooooHoooo', 'Cyber Security Student', '6214be9bc6f102.82711835.png'),
-(34, 'kene ', 'bolbo?', 'thisismonke', 'staycool@null.com', '$2y$10$QbQg5dcdoGD7x7MooDCgeec7aZEHDDt915ZuYG0C.aJp8Hn376RRG', 'm', 'meow ig?', 'nothing', 'default.png'),
-(35, 'Siya', 'Roy', 'Siya', 'majumder@gmail.com', '$2y$10$4.1cItnmbUtJK0jALhWzcuaUrugR.trdHuewu0Fd8GxpV9b8AMfzu', 'f', 'Bolbo na vagg', 'Nah', 'default.png'),
-(36, 'Virus', 'Warning', 'Virus', 'hrisikeshpal2001@gmail.com', '$2y$10$HnxVSQ3BUD.yT9gpMDo0h.hYJ0u4TWIkH5.nQDrVz2OJMV.ZzczVy', 'm', 'Ack3rH', '78726', 'default.png');
+(36, 'Virus', 'Warning', 'Virus', 'testmail@mail.com', '$2y$10$HnxVSQ3BUD.yT9gpMDo0h.hYJ0u4TWIkH5.nQDrVz2OJMV.ZzczVy', 'm', 'Ack3rH', '78726', 'default.png');
 
 --
 -- Indexes for dumped tables
