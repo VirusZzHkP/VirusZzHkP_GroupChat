@@ -1,5 +1,6 @@
 # VirusZzHkP_GroupChat
- This is a group chat site made with php and for database I used Sql. On the chat site anyone from the world signing-in can chat arround and see all previous chats.<br>--VirusZzHkP_GroupChat-v1
+It is a proper Group Chat Site, where anyone signed-in on the site can chat with others present on site from any corner of the world, and read all messages present there.
+Made with php and for database I used Sql. <br>--VirusZzHkP_GroupChat-v1<br>
 <a href="https://hrisikeshpal.000webhostapp.com/">Demo</a>
  
 ## Front Page
